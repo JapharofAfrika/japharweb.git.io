@@ -44,21 +44,17 @@ a{
     color: white;
 }
 
-.flex2{
-    text-align: center;
-    margin: 5px;
-}
-
 .pics{
-    width: 250%;
+    width: 250px;
     border-radius: 100px;
+    padding: 15px
 }
   .head{
       display: block;
   }
 
   .img2{
-    width: 30%;
+    width: 50%;
   }
 
 footer{
@@ -72,6 +68,7 @@ footer{
 .p2{
     font-size: 1em;
     text-decoration: solid;
+    padding: 15px;
 }
 
 .int{

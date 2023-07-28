@@ -46,12 +46,11 @@ a{
 
 .flex2{
     text-align: center;
-    width: 10;
     margin: 5px;
 }
 
 .pics{
-    width: 150%;
+    width: 250%;
     border-radius: 100px;
 }
   .head{
@@ -71,10 +70,8 @@ footer{
 }
 
 .p2{
-    font-size: 1.5em;
+    font-size: 1em;
     text-decoration: solid;
-    margin: 100px;
-    
 }
 
 .int{

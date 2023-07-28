@@ -45,8 +45,7 @@ a{
 }
 
 .flex2{
-    display: flex;
-    justify-content: center;
+    text-align: center;
     width: 10;
     margin: 5px;
 }

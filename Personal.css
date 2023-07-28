@@ -45,14 +45,10 @@ a{
 }
 
 .pics{
-    width: 150%;
+    width: 80%;
     border-radius: 100px;
     padding: 15px
 }
-  .head{
-      display: block;
-  }
-
   .img2{
     width: 80%;
   }
